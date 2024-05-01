@@ -1,9 +1,9 @@
-# estudo-projeto-todo-list
+# TO DO LIST
 
 
-# Sobre o desafio
+# Sobre 
 
-Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
+Aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
 
 - Adicionar uma nova tarefa
 - Marcar e desmarcar uma tarefa como concluída
